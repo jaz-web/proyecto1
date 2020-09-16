@@ -3,9 +3,9 @@ const CACHE_NAME = 'v1_proyecto1',
   urlsToCache = [
     './',
     './index.html',
-    '/images/launcher-icon-1x.png',
-    '/images/launcher-icon-2x.png',
-    '/images/launcher-icon-4x.png'
+    './images/launcher-icon-1x.png',
+    './images/launcher-icon-2x.png',
+    './images/launcher-icon-4x.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
